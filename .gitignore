@@ -1,0 +1,29 @@
+# Claude Code session files
+/.claude/
+
+# IDE
+/.idea/
+/.vs/
+/.vscode/
+/cmake-build-*/
+*.iml
+*.iws
+*.ipr
+
+# CMake build directories
+/build/
+/build-test/
+/cmake-build-*/
+
+# Coverage output
+/coverage-report/
+*.profraw
+*.profdata
+
+# Compiled artifacts
+*.exe
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
